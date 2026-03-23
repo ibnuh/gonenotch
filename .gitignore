@@ -1,0 +1,6 @@
+build/
+dist/
+icon_build/
+Frameworks/
+.DS_Store
+*.swp
