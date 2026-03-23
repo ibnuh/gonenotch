@@ -5,19 +5,19 @@
         <description>Updates for GoneNotch.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.0</title>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>Version 1.0.0</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <description><![CDATA[
-                <h2>GoneNotch 1.1.0</h2>
-                <p>New app icon and branding, settings window with About section, auto-download Sparkle framework</p>
+                <h2>GoneNotch 1.0.0</h2>
+                <p>Hide the MacBook notch by switching to a below-notch display resolution. Menu bar app with global hotkey (Cmd+Ctrl+N), launch at login, and auto-updates.</p>
             ]]></description>
-            <pubDate>Mon, 23 Mar 2026 20:19:37 +0700</pubDate>
+            <pubDate>Mon, 23 Mar 2026 20:32:52 +0700</pubDate>
             <enclosure
                 url="https://ibnuhx.com/gonenotch/downloads/GoneNotch.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="lLACAn9TsSzfn2ujWfknHWEn/mGZXKJKg1JduqO+KaTs4cEFqbyyWNumJTQCtBDFnbt51Z8wg0q+9yBfuFD+CQ=="
-                length="1382412"
+                sparkle:edSignature="CtxJ7yGGwVOkDqY73SCNcmOW6G1G3CvHBl4gh9XvcQYm2+XeqCZIbNGtDEIzWqXtN6+XzR2F9Akdryi3YrLkAw=="
+                length="1382425"
             />
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
         </item>
